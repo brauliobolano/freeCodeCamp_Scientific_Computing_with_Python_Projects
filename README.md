@@ -5,15 +5,15 @@ This certification is offered by freeCodeCamp, a renowned platform for learning 
 
 Project List:
 
-Arithmetic Formatter: This project showcases my ability to create a simple arithmetic formatter that takes in a list of arithmetic problems and formats them vertically for easy readability.
+1- Arithmetic Formatter: This project showcases my ability to create a simple arithmetic formatter that takes in a list of arithmetic problems and formats them vertically for easy readability.
 
-Time Calculator: In this project, I have developed a time calculator that allows users to add a specified amount of time to a given time and obtain the result in a 12-hour clock format.
+2- Time Calculator: In this project, I have developed a time calculator that allows users to add a specified amount of time to a given time and obtain the result in a 12-hour clock format.
 
-Budget App: I have implemented a budget application that helps users manage their finances by categorizing transactions and providing an overview of their spending.
+3- Budget App: I have implemented a budget application that helps users manage their finances by categorizing transactions and providing an overview of their spending.
 
-Polygon Area Calculator: This project demonstrates my knowledge of object-oriented programming in Python to calculate the area of various polygons.
+4- Polygon Area Calculator: This project demonstrates my knowledge of object-oriented programming in Python to calculate the area of various polygons.
 
-Probability Calculator: I have created a probability calculator that simulates experiments to estimate the likelihood of specified outcomes using probability principles.
+5- Probability Calculator: I have created a probability calculator that simulates experiments to estimate the likelihood of specified outcomes using probability principles.
 
 Throughout the process of completing these projects, I have deepened my understanding of Python programming, algorithmic thinking, and data manipulation. Each project comes with its own set of challenges and problem-solving opportunities, and I have thoroughly enjoyed tackling them all.
 
